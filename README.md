@@ -1,4 +1,4 @@
-# Stride Onsite FE Interview Prompt
+# Andy's Onsite FE Interview Prompt
 
 ## Overview
 Render park information returned from an API and filter the display based on park properties.
