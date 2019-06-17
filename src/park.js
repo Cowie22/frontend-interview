@@ -33,8 +33,6 @@ let Park = (props) => {
         })
     })
 
-
-
     return (
         //dataWithHeaders
         data.map(ele => {
